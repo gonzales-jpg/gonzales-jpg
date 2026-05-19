@@ -76,13 +76,17 @@ Projeto voltado para identificação automática de resíduos recicláveis utili
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=gonzales-jpg&show_icons=true&theme=tokyonight&cache_seconds=1800"
+  />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gonzales-jpg&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzales-jpg&layout=compact&theme=tokyonight"/>
-
-</div>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzales-jpg&layout=compact&theme=tokyonight&cache_seconds=1800"
+  />
+</p>
 
 ---
 
